@@ -39,7 +39,3 @@ This project was created to practice basic C++ concepts, including:
 * Conditional statements
 * Basic program logic
 
-
----
-
-*A simple project made while learning C++.*
