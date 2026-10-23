@@ -38,4 +38,3 @@ This project was created to practice basic C++ concepts, including:
 * Arithmetic operators
 * Conditional statements
 * Basic program logic
-
